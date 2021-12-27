@@ -11,11 +11,13 @@ The p-value of 5035e-11 is a lot smaller than our 95% confidence level, therefor
 This model has an r-squared value of .7149 wh ich means 71% of all mpg predictions will be based on this chart, thus correctly predicting the mpg of th MechaCar prototypes effectively.
 
 
+
+
+## Summary Statistics on Suspension Coils
 ![mecha_car_screenshot 2](https://user-images.githubusercontent.com/38074766/147437197-4e8f2810-7e83-4d93-8d44-b1d299cd8d30.png)
 
 ![mecha_car_screenshot 3](https://user-images.githubusercontent.com/38074766/147437251-0bd963e4-6472-419d-90e5-8d180d4b31f7.png)
 
-## Summary Statistics on Suspension Coils
 The variance of coils are 62.29 and are within the 100 PSI limit.  However, Lot 3 has a variance of 170.29, which is above the 100 PSI variance limit.
 
 ## T-Tests on Suspension Coils
